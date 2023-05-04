@@ -12,11 +12,23 @@
 <br />
 
 #### 🌍  I'm based in Portugal
-#### 💼  I'm currently working at [xgeeks](https://www.xgeeks.io) as **Software Engineer**
-#### 🚀  Side project that I'm currently working on [pokedex](https://github.com/JoaoJesus94/pokedex)
-<!-- #### 🖥️  See my portfolio at [joaojesus.me](http://joaojesus.me) -->
-#### 🧠  I’m currently learning **NestJs**
+#### 💼  I'm currently working at [YLD](https://www.yld.io/) as **Software Engineer**
+#### 🖥️  Personal website at [joaojesus.dev](https://joaojesus.dev)
 #### ✉️  You can contact me at [joaojesus_94@hotmail.com](mailto:joaojesus_94@hotmail.com)
+
+<br />
+
+## 🚀 Open source contributions
+
+<a href="https://github.com/gatsbyjs/gatsby" target="_blank" rel="noreferrer">
+  <img src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="46" height="46" alt="Gatsby"/>
+</a>
+<a href="https://github.com/mui/material-ui" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.svg" width="46" height="46" alt="Material-ui"/>
+</a>
+<a href="https://github.com/blitz-js/blitz" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/blitz-js/art/master/svg-transparent-bg.svg" width="46" height="46" alt="Blitz"/>
+</a>
 
 <br />
 
@@ -64,13 +76,8 @@
 
 <br />
 
----
-
-<br />
-
 ## ⭐ GitHub Stats
 
-![JoaoJesus94's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoJesus94&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=trued&hide=contribs&card_width=480)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJesus94&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
+![JoaoJesus94's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoJesus94&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide=contribs&card_width=480)
 
-![JoaoJesus94's GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=JoaoJesus94&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJesus94&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&custom_title=Top%20Languages)
